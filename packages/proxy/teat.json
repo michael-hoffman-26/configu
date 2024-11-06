@@ -1,0 +1,22 @@
+[
+  {
+    "store": "mainStore",
+    "set": "defaultSet",
+    "schema": {
+      "keys": {
+        "key1": {
+          "type": "string",
+          "description": "Description for key1"
+        },
+        "key2": {
+          "type": "number",
+          "description": "Description for key2"
+        }
+      }
+    },
+    "configs": {
+      "key1": "value1",
+      "key2": 42
+    }
+  }
+]
